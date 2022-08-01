@@ -1,4 +1,4 @@
-title New Note
+title  0.4 New Note
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note
 note over server:
 server save the new note into the database 
